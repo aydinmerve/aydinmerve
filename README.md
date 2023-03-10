@@ -1,7 +1,7 @@
 Hi 👋 My name is Merve Aydın
 ============================
 
-Software Developer | Web Developer | Jr. Frontend Developer
+Software Developer | Web Developer | Jr. Frontend Developer | Software  Quality Assurance Specialist
 -----------------------------------------------------------
 
 Software Developer | Web Developer | Jr. Frontend Developer Computer Engineering &Computer Programming educated, experience in designing and web developing. Having a progressive and innovative with developing solutions to complex problems to meet high business expectations.Innovative, committed to continuously improving skills and processes. Enthusiastic, resilient, tenacious, adaptable, collaborative. Work as part of a team to see projects through from planning to completion for various enterprise clients using the Agile development process.
